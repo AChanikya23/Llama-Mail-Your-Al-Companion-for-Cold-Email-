@@ -1,0 +1,8 @@
+streamlit
+pandas
+uuid
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-groq
